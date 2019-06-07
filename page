@@ -12,8 +12,8 @@ table{border:1px solid #00b2e3;}
 <h1> <font color = #0084b8> Hello World! <br></font></header>
 <body> <font size = -1><font color = #0084b8><span class='notbold'> How is everybody doing today? I hope everybody is having a great day. <br> I am extremely bored so I am going to make a webpage today! <br><br>
 
-Here is a table of my favorite restaurants with links to their websites!<br>
-<table style="width:25%">
+Here is a table of my favorite restaurants with links to their websites!<br><br>
+<table style="width:25%" align="left">
 
 <tr>
 <th> <font color = "red"> Rank </th>
@@ -37,7 +37,18 @@ Here is a table of my favorite restaurants with links to their websites!<br>
 </tr>
 </table>
 <br>
-While Cane's has quite good food, it's a food you have to be in the mood for. 
+<align="center">
+While Cane's has quite good food, it's a food you have to be in the mood for. <br>
+Wendy's is great because with their amazing prices and above average quality, <br>
+you really can't go wrong when you step inside. Taco Bell is on the list for the <br>
+obvious reason, the coveted Baja Blast. And as a Cincinnati native, it seems <br>
+almost blasphemous to not include Skyline as a staple of fine dining. </align="center"><br><br><br>
+<align="left"> <br> Other hobbies of mine include competitive paintball at <font color = "red"> Ohio State University <font color = #0084b8>
+as well as playing <font color = "black"> roller hockey <font color = #0084b8> with the <br>
+<font color = "red"> Ohio State Roller Hockey Club. <font color = #0084b8> I also make pizzas at the <font color = "red"> PAD at Ohio State <font color = #0084b8>
+in the lobby of <font color = "red"> Lawrence Tower. <font color = #0084b8> I enjoy <br>
+playing video games, namely <font color = "blue"> Rocket League, Insurgency: Sandstorm, Beat Saber, Pavlov VR, Onward, and Battlefield 1. <br>
+<font color = #0084b8>
 
 
 </font> 
