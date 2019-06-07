@@ -1,0 +1,46 @@
+<html>
+<head>
+<style>
+body { 
+   background-color: #ffa8f9}
+.notbold{
+font-weight:normal
+}
+
+table{border:1px solid #00b2e3;}
+</style>
+<h1> <font color = #0084b8> Hello World! <br></font></header>
+<body> <font size = -1><font color = #0084b8><span class='notbold'> How is everybody doing today? I hope everybody is having a great day. <br> I am extremely bored so I am going to make a webpage today! <br><br>
+
+Here is a table of my favorite restaurants with links to their websites!<br>
+<table style="width:25%">
+
+<tr>
+<th> <font color = "red"> Rank </th>
+<th> <font color = #ff661f> Restaurant </th>
+</tr>
+<tr>
+<td><center>1</td>
+<td><center> <font color = "red"> <a href="https://www.wendys.com/"> Wendy's </a></td>
+</tr>
+<tr>
+<td> <center> 2 </td>
+<td> <center> <font color = "red"><a href="https://www.tacobell.com/"> Taco Bell </a></td>
+</tr>
+<tr>
+<td><center>3</td>
+<td><center><font color = "red"><a href="https://www.raisingcanes.com/"> Raising Cane's </a></td>
+</tr>
+<tr>
+<td><center>4</td>
+<td><center><font color = "red"><a href="https://www.skylinechili.com/"> Skyline Chili </a></td>
+</tr>
+</table>
+<br>
+While Cane's has quite good food, it's a food you have to be in the mood for. 
+
+
+</font> 
+</body>
+</head>
+</html>
